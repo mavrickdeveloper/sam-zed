@@ -2,9 +2,9 @@
 
 
 
-![](https://github.com/sam-zed/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/sam-zed/generatorStats/blob/master/generated/overview.svg)
 
-![](https://github.com/sam-zed/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/sam-zed/generatorStats/blob/master/generated/languages.svg)
 
 
 
