@@ -1,4 +1,4 @@
-### You landed on Oussama Zeddam planet , Call me SAM
+### You landed on SAM planet 
 Software engineer Exploring Blockchain
 
 
