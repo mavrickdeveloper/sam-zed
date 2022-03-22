@@ -1,19 +1,3 @@
-### You landed on SAM planet 
-Software engineer Exploring Blockchain
-
-
-![](https://github.com/sam-zed/generatorStats/blob/master/generated/languages.svg)
-
-i specialize in web apps development in the following categories : 
-
-* eCommerce
-* finTech
-* Blockchain ( DeFi , dApps , custom blockckchains ..Etc)
-
-
-- 🌱 I’m currently learning :  Golang / Dart / Flutter
-- ⚡ Fun fact: im a caffeine convertion machine i transform it into code
-
 <h1 align="center">Hi 👋, I'm SAM</h1>
 <h3 align="center">A passionate Fullstack Engineer & Blockchain developer</h3>
 
@@ -21,7 +5,7 @@ i specialize in web apps development in the following categories :
 
 <p align="left"> <a href="https://twitter.com/mavrickdev" target="blank"><img src="https://img.shields.io/twitter/follow/mavrickdev?logo=twitter&style=for-the-badge" alt="mavrickdev" /></a> </p>
 
-- 🔭 I’m currently working on **Bazayer**
+- 🔭 I’m currently working on **Marketplace web app & Wallet system*
 
 - 🌱 I’m currently learning **Golang , Corda**
 
