@@ -12,7 +12,7 @@
 
 - 📝 I occasionally write articles on [blog.mavrick.dev](blog.mavrick.dev)
 
-- 💬 Ask me about ** Web dev , ReactJS , laravel , blockchain , Solidity**
+- 💬 Ask me about  **Web dev , ReactJS , laravel , blockchain , Solidity**
 
 - 📫 How to reach me **sam@mavrick.dev**
 
