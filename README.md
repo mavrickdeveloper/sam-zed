@@ -22,7 +22,7 @@
 <a href="https://twitter.com/mavrickdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mavrickdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oussamazeddam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussamazeddam" height="30" width="40" /></a>
 <a href="https://instagram.com/mavrick.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mavrick.dev" height="30" width="40" /></a>
-<a href="https://hashnode.com/@maverickdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@maverickdev" height="30" width="40" /></a>
+<a href="https://hashnode.com/@maverickdev" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@maverickdev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/oussama_zeddam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oussama_zeddam" height="30" width="40" /></a>
 </p>
 
