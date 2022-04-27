@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **B**
 
-- 📝 I occasionally write articles on [blog.mavrick.dev](blog.mavrick.dev)
+- 📝 I occasionally write articles on [https://blog.mavrick.dev](blog.mavrick.dev)
 
 - 💬 Ask me about  **Web dev , ReactJS , laravel , blockchain , Solidity**
 
